@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/lambert2.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/QK_CustomHand.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/QK_CustomHand_PhysicsAsset.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/QK_CustomHand_Skeleton.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/T_QK_Glove_AORM.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/T_QK_Glove_BC.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Hand/T_QK_Glove_N.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Blueprints/Drone.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/FreeShoot/Blueprints/PatrolPoint.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/ModularBuildingSet/Demo_Scene.umap",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/Characters/MannequinsXR/Materials/M_Mannequin.uasset",
+				"C:/Users/qiyuanl2/Documents/Unreal Projects/MP3_qiyuanl2/Content/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01.uasset"
+			]
+		}
+	]
+}
